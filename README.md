@@ -10,5 +10,6 @@ Scrape the title of a webpage using Python.
 ## The Fix
 - Used browser headers in `requests`.
 - Checked status before parsing.
-- # automation-struggles
+
+ ## Automation-struggles
 Real devs. Real problems. One language at a time
